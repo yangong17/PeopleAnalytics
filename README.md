@@ -31,6 +31,3 @@ This project was developed for the **Summer People Analytics Challenge** and exp
 - Predictive Analytics  
 - Data Storytelling and Presentation Design  
 
----
-
-Let me know if you'd like to tailor this for use in a portfolio or resume context.

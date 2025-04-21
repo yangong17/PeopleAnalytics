@@ -3,7 +3,7 @@
 ## ⭐Summer People Analytics Challenge – Absenteeism Cost Analysis
 
 ### 📌Overview  
-This project was developed for the **Summer People Analytics Challenge** and explores the **financial and operational impact of employee absenteeism**. Using Orgnostic’s sample HR dataset, the analysis quantified costs, identified behavioral patterns, and recommended actionable strategies to improve workforce efficiency and reduce disruption.
+This project was developed for Orgnostic's **Summer People Analytics Challenge** and explores the **financial and operational impact of employee absenteeism**. Using a sample HR dataset, the analysis quantified costs, identified behavioral patterns, and recommended actionable strategies to improve workforce efficiency and reduce disruption.
 
 ### 📌Approach  
 - **Descriptive Analysis**: Summarized overall absenteeism rates, types of leave (planned vs. unplanned), and cost drivers.  
